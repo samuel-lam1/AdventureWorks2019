@@ -1,5 +1,5 @@
 # AdventureWorks2019 database analysis
-This is a small project which analsyed the AdventureWorks2019 sample database.
+This is a small project which analsyed the Microsoft's AdventureWorks2019 sample database.
 Python is used for this project.
 
 The relationships between the following parameters were investigated:
